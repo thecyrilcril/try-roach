@@ -1,0 +1,5 @@
+{
+    "require": {
+        "roach-php/core": "^3.2"
+    }
+}
